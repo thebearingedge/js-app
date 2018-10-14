@@ -1,0 +1,7 @@
+docker-compose.override.yml
+client/.next/
+node_modules/
+.nyc_output/
+.DS_Store
+coverage/
+.env
